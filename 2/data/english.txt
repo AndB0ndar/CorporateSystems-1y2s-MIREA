@@ -1,0 +1,3 @@
+Hello world! This is a simple text file. 
+It contains some words, and the word "hello" appears twice: Hello and hello.
+Also, the word "world" appears once.
